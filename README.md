@@ -4,6 +4,7 @@
          Image and text content to effectively communicate the purpose and benefits of the product or service.
 Technologies Used:
          HTML5(Structure and content markup)
+
          CSS3(Styling and layout design)
 
          
